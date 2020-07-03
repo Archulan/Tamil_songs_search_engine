@@ -13,7 +13,7 @@ Demo
 * Install ElasticSearch 
 * Add 'Analyzers' folder in config of Elasticsearch
 * Run ElasticSearch
-* Run 'index adder.py' to add index
+* Run 'Index adder.py' to add index
 * Add the data by 200 record due to the max cap
 * Go to http://localhost/5601
 * Go to Web tools
