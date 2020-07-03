@@ -35,7 +35,7 @@ GET /songs_db/_search
 }
 ```
 
-*Search for songs released within a time period
+* Search for songs released within a time period
 ```
 GET/songs_db/songs/search?filter_path=hits.hits._source.song name,hits.hits._source.திரைப்படம்,hits.hits._source.year
 {
@@ -81,6 +81,7 @@ GET /songs_db/_search
 ```
 
 * Search for songs by Yuvan Shankar Raja in 2010
+```
 GET /song_index/_search
 {
   "query": {
