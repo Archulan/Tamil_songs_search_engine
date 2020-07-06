@@ -1,4 +1,8 @@
 # Tamil_songs_search_engine
+![GitHub repo size](https://img.shields.io/github/repo-size/Archulan/Tamil_songs_search_engine?color=red&style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Archulan/Tamil_songs_search_engine?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/Archulan/Tamil_songs_search_engine?color=brightgreen&style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/Archulan/Tamil_songs_search_engine?color=blueviolet&style=plastic)
 
 This Repository includes the implementaion for a search query.
 The search engine could be used after configuring elastcisearch.
