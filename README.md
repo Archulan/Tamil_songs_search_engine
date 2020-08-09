@@ -25,6 +25,7 @@ Demo
 
 Sample queries
 ---
+
 * Search for all the songs from a movie(all songs in an album)
 ```
 GET /songs_db/_search
