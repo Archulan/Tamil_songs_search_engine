@@ -1,4 +1,4 @@
-# Tamil songs search_engine
+# Tamil songs search engine
 ![GitHub repo size](https://img.shields.io/github/repo-size/Archulan/Tamil_songs_search_engine?color=red&style=plastic)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Archulan/Tamil_songs_search_engine?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/Archulan/Tamil_songs_search_engine?color=brightgreen&style=plastic)
